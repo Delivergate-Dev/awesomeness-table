@@ -1,0 +1,9 @@
+{
+  "name": "awesomeness-table",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5"
+  },
+  "description": "Awesome and Easy Table"
+}
